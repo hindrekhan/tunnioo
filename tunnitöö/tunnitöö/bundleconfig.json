@@ -1,0 +1,32 @@
+[
+  {
+    "outputFileName": "wwwroot/js/corporate.min.js",
+    "inputFiles": [
+      "wwwroot/assets/pages/scripts/portfolio.js",
+      "wwwroot/assets/pages/scripts/contact-us.js",
+      "wwwroot/assets/pages/scripts/checkout.js",
+      "wwwroot/assets/pages/scripts/bs-carousel.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/assets/corporate/scripts/bundle.js",
+    "inputFiles": [
+      "wwwroot/assets/corporate/scripts/back-to-top.js",
+      "wwwroot/assets/corporate/scripts/layout.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/assets/corporate/css/bundle.css",
+    "inputFiles": [
+      "wwwroot/assets/corporate/css/style-responsive.css",
+      "wwwroot/assets/corporate/css/style.css",
+      "wwwroot/assets/corporate/css/custom.css",
+      "wwwroot/assets/corporate/css/themes/turquoise.css",
+      "wwwroot/assets/corporate/css/themes/red.css",
+      "wwwroot/assets/corporate/css/themes/orange.css",
+      "wwwroot/assets/corporate/css/themes/green.css",
+      "wwwroot/assets/corporate/css/themes/gray.css",
+      "wwwroot/assets/corporate/css/themes/blue.css"
+    ]
+  }
+]
